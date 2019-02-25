@@ -14,7 +14,7 @@ const int led4 = 10;         // donar nom al pin 10 de l’Arduino
 const int led5 = 11;         // donar nom al pin 11 de l’Arduino
 int velocitat = 200;         // velocitat de l'acció en ms
 const int buttonPin = 2;
-int buttonState = 0; 
+int buttonState = 1; 
 
 //********** Variables ************************************************************
 
